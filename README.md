@@ -67,7 +67,7 @@ ShareSpace is a social media platform which allows people to connect with their 
     
 ## 
 <ol>
-  <li> This project is a group effort done for Software Developmental Fundamentals (SDF) course , in our second year ,IITH.
+  <li> This project is a group effort done for Software Developmental Fundamentals (SDF) course , in our first year ,IITH.
   <li> Members : Srinith , Pranav , Nitya
 </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
