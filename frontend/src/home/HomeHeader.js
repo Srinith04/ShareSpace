@@ -28,7 +28,6 @@ function HomeHeader({ user }) {
         <div className="homeHeader">
             <div className="homeHeader__left">
                 <Link to="/home" style={{textDecoration:'none'}}>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgo5810D-7EDcbAXBmS_md7WuJq5AIUUdqw&usqp=CAU" alt="Facebook Logo" className="homeHeader__logo" />
                 </Link>
             </div>
 
